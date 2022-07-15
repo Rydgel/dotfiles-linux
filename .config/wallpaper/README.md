@@ -17,6 +17,7 @@
 
 [Makrustic](https://twitter.com/makrustic)
 - pixelart_mountains_clouds_forest_makrustic.png
+- pixelart_evening_trees_pole_wires_makrustic.png
 
 [Ansitru](https://twitter.com/Ansitru)
 - pixelart_medicine_flower_reminder_cattppuccin_Ansitru
