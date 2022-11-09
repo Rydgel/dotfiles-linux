@@ -4,6 +4,7 @@
 - pixelart_farm_farmer_warm-color_jmw327.png
 - pixelart_house_chibi_person_game_jmw327.png
 - pixelart_house_inside_girl_book_dog_jmw327.png
+- pixelart_house_girl_string_cozy.png
 
 [PixelArtJourney](https://twitter.com/PixelArtJourney)
 - pixelart_night_stars_clouds_trees_cozy_PixelArtJourney.png
