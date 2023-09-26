@@ -24,3 +24,6 @@
 - pixelart_medicine_flower_reminder_cattppuccin_Ansitru
 - pixelart_medicine_flower_reminder_dracula_Ansitru
 - pixelart_medicine_flower_reminder_nord_Ansitru
+
+[everforest-walls](https://github.com/Apeiros-46B/everforest-walls)
+- all wallpapers prefixed with _"everforest-walls"_
